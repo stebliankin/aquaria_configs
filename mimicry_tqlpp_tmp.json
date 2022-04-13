@@ -7,9 +7,9 @@
     "Description": "Molecular mimicry with TPO protein",
     "Features": [
 	{
-		"Name": "TQLPP",
+		"Name": "TQLPP (resid 22-26)",
 		"Residues": "22-26",
-        "Color": "red"
+        "Description": "Molecular mimicry with TPO</br>PDB ID: 1V7M, chain Z, residues 110-114</br>RMSD = 0.9A (p-val=0.09)</br> DL score = 1.28 (DL p-val = 0.01)"
 	}
     ]
   }
